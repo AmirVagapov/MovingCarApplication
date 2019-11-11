@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="car_height">70dp</dimen>
+    <dimen name="car_width">40dp</dimen>
+    <dimen name="car_bottom_margin">40dp</dimen>
+    <dimen name="car_top_radius">12dp</dimen>
+    <dimen name="car_bottom_radius">4dp</dimen>
+    <dimen name="car_stroke_width">1dp</dimen>
+</resources>

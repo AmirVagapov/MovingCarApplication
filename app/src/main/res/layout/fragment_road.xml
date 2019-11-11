@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/fragment_road_car"
+        android:layout_width="@dimen/car_width"
+        android:layout_height="@dimen/car_height"
+        android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/car_bottom_margin"
+        android:src="@drawable/car" />
+
+</FrameLayout>
